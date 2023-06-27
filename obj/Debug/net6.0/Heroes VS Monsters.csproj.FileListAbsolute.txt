@@ -1,0 +1,15 @@
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\bin\Debug\net6.0\Heroes VS Monsters.exe
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\bin\Debug\net6.0\Heroes VS Monsters.deps.json
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\bin\Debug\net6.0\Heroes VS Monsters.runtimeconfig.json
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\bin\Debug\net6.0\Heroes VS Monsters.dll
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\bin\Debug\net6.0\Heroes VS Monsters.pdb
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.csproj.AssemblyReference.cache
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.AssemblyInfoInputs.cache
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.AssemblyInfo.cs
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.csproj.CoreCompileInputs.cache
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.dll
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\refint\Heroes VS Monsters.dll
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.pdb
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\Heroes VS Monsters.genruntimeconfig.cache
+C:\C#\Ex Recapitulatif\Heroes VS Monsters\obj\Debug\net6.0\ref\Heroes VS Monsters.dll
